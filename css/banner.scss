@@ -1,0 +1,42 @@
+.banner {
+    height: 605px;
+    background-image: url(../image/img/bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+    padding: 10px 0;
+    position: relative;
+}
+
+
+.banner-text {
+    position: absolute;
+    top: 118px;
+}
+
+
+
+.btn-green {
+    padding: 12px 27px;
+    border-radius: 40px;
+    cursor: pointer;
+    color: #fff;
+    border: 2px solid #FFFFFF;
+    text-transform: uppercase;
+    margin-left: 0;
+}
+
+.banner-title {
+    font-weight: bold;
+    font-size: 48px;
+    margin-bottom: 50px;
+}
+
+.banner-subtitle {
+    font-size: 14px;
+    font-weight: bold;
+    max-width: 308px;
+    margin-bottom: 50px;
+    line-height: 20px;
+}
